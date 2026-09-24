@@ -1,2 +1,0 @@
-# ProyectoVehiculos
-Proyecto POO - Vehiculos
